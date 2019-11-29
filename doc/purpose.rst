@@ -3,10 +3,10 @@
 Purpose
 =======
 
-Write me ...
+The people usually write a purpose here..
 
 
 Zipf's law
 ----------
 
-Write me ...
+I don't know it.
